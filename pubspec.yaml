@@ -1,0 +1,27 @@
+name: skad
+description: A composable, copy-first Flutter design system inspired by shadcn/ui. CLI tool + widget library with theme tokens.
+version: 0.1.0
+homepage: https://github.com/kiridharan/skads-widget
+repository: https://github.com/kiridharan/skads-widget
+issue_tracker: https://github.com/kiridharan/skads-widget/issues
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  args: ^2.4.0
+  path: ^1.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+executables:
+  skad: skad
+
+flutter:
+  uses-material-design: true

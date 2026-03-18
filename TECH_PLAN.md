@@ -1,16 +1,3 @@
-Perfect. Let’s build this like a serious product — not just a widget package.
-
-I’ll give you:
-
-1. 🏗 Step-by-step build roadmap
-2. 🧱 Folder structure
-3. 🎨 Token + Theme system implementation
-4. 🧩 First real component (Button) architecture
-5. 🖥 CLI architecture
-6. 🚀 Launch strategy
-
----
-
 # 🏗 Phase 0 — Foundation (Week 1–2)
 
 ## Step 1: Create Core Package
@@ -437,22 +424,6 @@ Do NOT:
 - Tie deeply to ThemeData only
 - Make it another Material wrapper
 
-You are building:
+We are building:
 
 > Design System Engine — not UI wrapper
-
----
-
-# 🔥 Why This Can Be Big
-
-Flutter is exploding in:
-
-- India startups
-- Internal admin dashboards
-- SaaS tools
-- Desktop apps
-
-But UI polish is weak.
-
-If done right:
-You become the “shadcn for Flutter”.
